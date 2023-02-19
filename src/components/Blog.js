@@ -1,5 +1,4 @@
 import avatar from '../assets/avatar.jpg'
-import sanitizeHtml from 'sanitize-html';
 import { useEffect, useState, useContext } from 'react'
 import { Link } from 'react-router-dom';
 import { Context } from "../context.js/Context";

@@ -15,7 +15,7 @@ export const Navbar = () => {
         <div className='relative z-10 mb-10'>
 
 
-            <div className='h-1 bg-gradient-to-r from-orange-500 to-red-500 '></div>
+            <div className='h-1 bg-gradient-to-r from-purple-600 to-indigo-600 '></div>
 
 
             <nav className="fixed top-0 z-10 backdrop-blur-lg px-2 sm:px-4 py-2 mx-0 w-full">
