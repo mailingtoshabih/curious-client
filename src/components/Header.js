@@ -62,7 +62,7 @@ export const Header = () => {
                     </div>
 
                     <div className="my-5 text-center">
-                        <Link to="/login" className='flex w-fit mx-auto py-2 md:py-3 px-4 md:px-8 rounded-xl text-white text-sm md:text-lg  bg-gradient-to-r from-purple-600 to-indigo-600 shadow-lg shadow-purple-500 hover:shadow-2xl hover:shadow-purple-600 duration-700'>
+                        <Link className='flex w-fit mx-auto py-2 md:py-3 px-4 md:px-8 rounded-xl text-white text-sm md:text-lg  bg-gradient-to-r from-purple-600 to-indigo-600 shadow-lg shadow-purple-500 hover:shadow-2xl hover:shadow-purple-600 duration-700'>
                             Welcome
                         </Link>
                     </div>
